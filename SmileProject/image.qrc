@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/captureBtn.jpg</file>
+        <file>Image/addInfo.jpg</file>
+        <file>Image/addInfo_hover.png</file>
+        <file>Image/addInfoTable_bg.jpg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Qml/CameraView.qml</file>
+        <file>Qml/ImageButton.qml</file>
+        <file>Qml/ImageView.qml</file>
+        <file>Qml/InfoView.qml</file>
+        <file>Qml/TextButton.qml</file>
+        <file>Qml/TextDisplaySinglePageNotCutText.qml</file>
+        <file>main.qml</file>
+    </qresource>
+</RCC>
